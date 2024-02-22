@@ -1,0 +1,26 @@
+{
+  "name": "calculator-2024",
+  "version": "1.2.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.19"
+  },
+  "dependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.15",
+    "undici-types": "^5.26.5"
+  },
+  "description": ""
+}
+
